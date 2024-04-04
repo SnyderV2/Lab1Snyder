@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\Kaide\source\repos\Lab1Snyder\Lab1Snyder\Laboratory.cpp(19,10): warning C4305: '=': truncation from 'double' to 'float'
+  Lab1Snyder.vcxproj -> C:\Users\Kaide\source\repos\Lab1Snyder\x64\Debug\Lab1Snyder.exe
